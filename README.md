@@ -22,7 +22,16 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<table>
+  <tr>
+    <td>Stays logged in after restarts, and logs out</td>
+     <td>Commenting Featuress</td>
+  </tr>
+  <tr>
+    <td><img src="http://g.recordit.co/i3fpvPSiTv.gif" width=270 height=480></td>
+    <td><img src="http://g.recordit.co/PdIdFWOhRr.gif" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 # Parstagram - Part I
